@@ -9,24 +9,39 @@ Example 1: Registering 0.atommap
 First, visit the official GitHub page and download atommap_svg_final.zip. After decompressing, locate the 0.atommap.svg you wish to register.
 Inscribe on the atomicals client or the engraving website.
 Configure bitworkc to ab0 and initiate POW mining.
+
+yarn cli mint-nft "C:\Users\0.atomap.svg" --satsbyte 15 --satsoutput 546 --bitworkc ab0
+
 Ultimately, you'll receive the accredited 0.atommap.
+
 Example 2: Registering 10.atommap
 
 As in Example 1, visit the official GitHub page and download atommap_svg_final.zip. After decompressing, locate the 10.atommap.svg you wish to register.
 Follow the same steps for inscription.
 Configure bitworkc to ab10 and initiate POW mining.
+
+yarn cli mint-nft "C:\Users\0.atomap.svg" --satsbyte 15 --satsoutput 546 --bitworkc ab10
+
 Ultimately, you'll receive the accredited 10.atommap.
+
 Example 3: Registering 999.atommap
 
 As in Example 1, visit the official GitHub page and download atommap_svg_final.zip. After decompressing, locate the 999.atommap.svg you wish to register.
 Follow the same steps for inscription.
 Configure bitworkc to ab999 and initiate POW mining.
+
+yarn cli mint-nft "C:\Users\0.atomap.svg" --satsbyte 15 --satsoutput 546 --bitworkc ab999
+
 Ultimately, you'll receive the accredited 999.atommap.
+
 Example 4: Registering 9999.atommap
 
 As in Example 1, visit the official GitHub page and download atommap_svg_final.zip. After decompressing, locate the 9999.atommap.svg you wish to register.
 Follow the same steps for inscription.
 Configure bitworkc to ab9999 and initiate POW mining.
+
+yarn cli mint-nft "C:\Users\0.atomap.svg" --satsbyte 15 --satsoutput 546 --bitworkc ab9999
+
 Ultimately, you'll receive the accredited 9999.atommap.
 Incorrect Examples:
 
